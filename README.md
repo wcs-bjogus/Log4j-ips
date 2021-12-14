@@ -8,3 +8,6 @@ Had some regex errors in one of my scrapers so some unvalid IPv4 addresses did e
 Should now be fixed.  
 
 Also added sorting of the list so it looks better..  
+
+
+Added RFC1918 filtration
